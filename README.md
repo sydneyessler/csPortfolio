@@ -45,6 +45,8 @@ Of all of my portfolio projects, the two that are my favorite have been Tic-Tac-
 
 ## Hurdles 
 
+The most difficult challenge I worked through was printing out a map. This challenge reared its ugly head during a group project that analyzed data from the *Bachelor* and *Bachellorette*.
+
 
 ***
 
