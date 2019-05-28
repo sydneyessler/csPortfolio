@@ -2,7 +2,7 @@
 
 Hi! Welcome to my portfolio. 
 
-Here I have include all of my work from my year in Advanced Computer Science (ACS) in addition to some of my Advanced Placement computer science projects. This year in ACS, we have focuse on learning about different types of data structures including stacks, queues, sets, and trees. We have also learned about Big O operation time, parsing data, iterators, and other computer science concepts. The projects I completed in the course display creativity and my ability to use a variety of different data structures.
+Here I have include all of my work from my year in Advanced Computer Science (ACS) in addition to some of my Advanced Placement computer science projects. This year in ACS, we have focuse on learning about different types of data structures including stacks, queues, sets, and trees. We have also learned about Big O operation time, parsing data, iterators, and other computer science concepts. The projects I completed in the course display creativity and ability to use a variety of different data structures to complete tasks.
 
 ***
 
@@ -14,7 +14,7 @@ Of all of my portfolio projects, the two that are my favorite have been Tic-Tac-
 
  My biggest source of pride in my programming development was maintaining the motivation and perseverance to struggle through issues on my own. This year I tried as hard as I could to indentify and fix my own errors before resorting to google, peers, or Dr. R for help. Although I still had to ask for help, the fact that I at least tried to figure out issues on my own was a big step towards independence in my programming development.
 
-
+***
 
 
 
