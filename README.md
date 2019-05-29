@@ -88,21 +88,15 @@ public double r1Wcalc(){
       for(int i=0; i<bachWMap.get(u).size();i++){
   if(bachWMap.get(u).get(i).getR1() && bachWMap.get(u).get(i).getW()){
        countR1++;
-       }
-       if(bachWMap.get(u).get(i).getW())
+       } 
+  if(bachWMap.get(u).get(i).getW())
         countT++;
      }
-     
-      
-      
     }
-   return ((double)countR1/countT); 
-    
-    
+   return ((double)countR1/countT);
+  
   }
 ```
-
-
 ***
 
 ## Describe the incremental and iterative development process of your included code, focusing on two distinct points in the development process. Describe the difficulties and/ or opportunities you encountered and how they were resolved or incorporated. In your description clearly indicate whether the development described was collaborative or independent. At least one of these points must refer to independent program development.
