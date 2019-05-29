@@ -22,11 +22,14 @@ Of all of my portfolio projects, the two that are my favorite have been Tic-Tac-
 
 [Flesch](https://github.com/sydneyessler/StringParser.git)
 
+[FleschImage]()
+
 </details>
 
 <details open>
 <summary>Data Structures Labs</summary>
 <br>
+ 
  [Collections](https://github.com/sydneyessler/csPortfolio/tree/master/Processing/Collections)
  
  [Queues](https://github.com/sydneyessler/csPortfolio/tree/master/Processing/QUEUESSSS)
@@ -35,7 +38,7 @@ Of all of my portfolio projects, the two that are my favorite have been Tic-Tac-
  
  [Binary Search Tree](https://github.com/sydneyessler/csPortfolio/tree/master/BST)
  
- [Linked List}(https://github.com/sydneyessler/csPortfolio/tree/master/linklist)
+ [Linked List](https://github.com/sydneyessler/csPortfolio/tree/master/linklist)
 
 
 </details>
