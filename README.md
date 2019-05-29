@@ -8,7 +8,7 @@ Here I have include all of my work from my year in Advanced Computer Science (AC
 
 ***
 
-## Overall Reflection 
+## Overall Reflection
 
 Of all of my portfolio projects, the two that are my favorite have been Tic-Tac-Toe and Flesch Readability. These two projects challenged me to use new concepts to create programs that allow user interaction. Incorporating ideas and computers science principles that I had just learned helped me to gain confidence in my abilities and make user interfaces that are interesting and useful. Many of the less "flashy" projects that I completed this past year were more helpful in my own journey of becoming proficient with different data structures, especially those that were created from scratch such as the binary tree. These types of projects helped me to furhter my understanding of how these data structures work and how they can be implemented in problem solving. To see the code for my two favorite projects and some of the labs that helped me learn about data structures, see the links below:
 
@@ -22,7 +22,7 @@ Of all of my portfolio projects, the two that are my favorite have been Tic-Tac-
 
 [Flesch](https://github.com/sydneyessler/StringParser.git)
 
-[FleschImage]()
+[FleschImage](https://github.com/sydneyessler/csPortfolio/blob/master/Screen%20Shot%202019-05-28%20at%209.50.05%20PM.png)
 
 </details>
 
@@ -71,8 +71,11 @@ Of all of my portfolio projects, the two that are my favorite have been Tic-Tac-
   }
   
 ```
+Here is the rest of the code for that project:
+[code]()
 
 ***
+
 
 
 ## Hurdles 
