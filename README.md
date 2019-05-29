@@ -72,15 +72,35 @@ Of all of my portfolio projects, the two that are my favorite have been Tic-Tac-
   
 ```
 Here is the rest of the code for that project:
-[code]()
+[code](https://github.com/sydneyessler/csPortfolio/tree/master/project_lab)
 
 ***
 
-
-
 ## Hurdles 
 
-The most difficult challenge I worked through was printing out a map. This challenge reared its ugly head during a group project that analyzed data from the *Bachelor* and *Bachellorette*.
+The most difficult challenge I worked through this trimester was retrieving data from a map. This challenge reared its ugly head during a group project that analyzed data from the *Bachelor* and *Bachellorette*. While working in a group, all of us were working through iterating through and parcing data, but we were unable to determine how to complete a calculation that would determine the percent of contestants that won both the first impression rose and the final rose. With a lot of trial and error and writing it out on whiteboards, we were able to create a method that would complete ths calculation. Here is our completed solution:
+
+```java
+public double r1Wcalc(){
+    int countR1=0;
+    int countT = 0;
+    for(String u: bachWMap.keySet()){
+      for(int i=0; i<bachWMap.get(u).size();i++){
+  if(bachWMap.get(u).get(i).getR1() && bachWMap.get(u).get(i).getW()){
+       countR1++;
+       }
+       if(bachWMap.get(u).get(i).getW())
+        countT++;
+     }
+     
+      
+      
+    }
+   return ((double)countR1/countT); 
+    
+    
+  }
+```
 
 
 ***
