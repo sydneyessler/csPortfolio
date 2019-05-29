@@ -30,7 +30,8 @@ Of all of my portfolio projects, the two that are my favorite have been Tic-Tac-
  [Collections](https://github.com/sydneyessler/csPortfolio/tree/master/Processing/Collections)
  [Queues](https://github.com/sydneyessler/csPortfolio/tree/master/Processing/QUEUESSSS)
  [Stacks](https://github.com/sydneyessler/csPortfolio/tree/master/Processing/Stacks)
- 
+ [Binary Search Tree](https://github.com/sydneyessler/csPortfolio/tree/master/BST)
+ [Linked List}()
 
 
 </details>
