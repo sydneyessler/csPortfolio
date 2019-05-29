@@ -16,7 +16,7 @@ Of all of my portfolio projects, the two that are my favorite have been Tic-Tac-
 <summary>Favorite Projects</summary>
 <br>
  
-[I'm an inline-style link](https://github.com/sydneyessler/csPortfolio/tree/master/TicTacImages)
+[TicTacImages](https://github.com/sydneyessler/csPortfolio/tree/master/TicTacImages)
 
 [TicTacToe](https://github.com/sydneyessler/csPortfolio/tree/master/Tic_Tac_Toe)
 
@@ -28,10 +28,14 @@ Of all of my portfolio projects, the two that are my favorite have been Tic-Tac-
 <summary>Data Structures Labs</summary>
 <br>
  [Collections](https://github.com/sydneyessler/csPortfolio/tree/master/Processing/Collections)
+ 
  [Queues](https://github.com/sydneyessler/csPortfolio/tree/master/Processing/QUEUESSSS)
+ 
  [Stacks](https://github.com/sydneyessler/csPortfolio/tree/master/Processing/Stacks)
+ 
  [Binary Search Tree](https://github.com/sydneyessler/csPortfolio/tree/master/BST)
- [Linked List}()
+ 
+ [Linked List}(https://github.com/sydneyessler/csPortfolio/tree/master/linklist)
 
 
 </details>
