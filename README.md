@@ -99,7 +99,7 @@ public double r1Wcalc(){
 ```
 ***
 
-## Describe the incremental and iterative development process of your included code, focusing on two distinct points in the development process. Describe the difficulties and/ or opportunities you encountered and how they were resolved or incorporated. In your description clearly indicate whether the development described was collaborative or independent. At least one of these points must refer to independent program development.
+## Roadblocks - suffering was severe!
 
 One of the defining moments of my computer science career occured on the third to last day of school while completing my group's final projects. On this day, I truly suffered and pushed through. Just when I though the grip of senior slide was finally getting the best of me, a wave of motivation swept through my body screaming at me to persist! This wave caused for two major breakthroughs in the project - one independent and one collaborative. On my own, I worked to learn and complete the process of switching between slides based on clicks. This took me a signifigant amount of thinking and problem solving on my own as I have not complete a project in which the slides switch. To do this, I used the mousePressed operation and a method I wrote sophomore year called isBetween. I used these operations to determine when it was time for certain scenes to appear, and we utilized a class that consisted soley of methods that produced the visual for each scene. Inserted below is the final result of what was contained in mousePressed:
 
@@ -134,6 +134,6 @@ void mousePressed() {
 
 Revising and perfecting this method was also an individual challenge as I had to determine the coordinates that would match each button. After working on this piece of the project, my group and I tried to get the map we were building connected to the visual. We were near the edge of resorting to typing in the questions and responces as strings rather than actually grabbing them from the tree we had created. After almost an entire of frustration and on the verge of giving up, we looked back in the initial setup of the tree and discovered that we had reinstantiated two leaves twice and two leaves zero times. That simple mistake was fixed, and our project was officially completed just in time. Here is the final result of that project:
 
-[final project](https://github.com/sydneyessler/csPortfolio/tree/master/project_lab)
+[Final Project](https://github.com/sydneyessler/csPortfolio/tree/master/finalproject)
 
 
